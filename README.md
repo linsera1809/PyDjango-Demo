@@ -5,7 +5,7 @@ Sample app to test out Python/Django fullstack capabilities
 
 * [Versions](#Current-Local-Set-Up)
 * [Start-Up Doc](#Steps-For-Easy-Start-Up)
-    1. [Download](1.download)
+    1. [Download](#download)
     2. [Create Scaffolding](2.scaffold)
         * [Project Explanation](#Whats-going-on-in-myproject)
 
@@ -18,10 +18,10 @@ Sample app to test out Python/Django fullstack capabilities
 |Django    |2.2.4    |
 
 ## Steps for Easy Start-Up
-1. Download [Django](https://www.djangoproject.com/download/)
+### 1. Download [Django](https://www.djangoproject.com/download/)
     > `pip install Django==2.2.4`
    
-2. Create the project scaffold 
+### 2. Create the project scaffold 
     > `django-admin startproject <myproject>` 
 
  __What's going on in myproject:__ 
