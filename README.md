@@ -51,7 +51,7 @@ urls.py – This is the main controller which maps it to your website.
 
 wsgi.py – It serves as an entry point for WSGI compatible web servers.
 
-  ![Project Directory](assets\doc\ProjectDirectory-Django.png)
+  ![Project Directory](.\assets\doc\ProjectDirectory-Django.png)
 
 ### 3. Create your app. 
 Navigate to the myproject directory and type the following:  
