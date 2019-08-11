@@ -51,7 +51,7 @@ urls.py – This is the main controller which maps it to your website.
 
 wsgi.py – It serves as an entry point for WSGI compatible web servers.
 
-  ![Project Directory](.\assets\doc\ProjectDirectory-Django.png)
+  ![Project Directory](./assets/doc/ProjectDirectory-Django.png)
 
 ### 3. Create your app. 
 Navigate to the myproject directory and type the following:  
@@ -142,7 +142,7 @@ url(r'^admin/', admin.site.urls),
 
 And now all should be fine!
 
-**Source for this solution: <https://timonweb.com/tutorials/solving-djangocoreexceptionsimproperlyconfigured-passing-a-3-tuple-to-include-error-after-djangowagtail-20-upgrade/>**
+Source for this solution: <https://timonweb.com/tutorials/solving-djangocoreexceptionsimproperlyconfigured-passing-a-3-tuple-to-include-error-after-djangowagtail-20-upgrade/>
 
 ## Additional Work
     Goal: Let's create the http://localhost:8000/admin/ page
